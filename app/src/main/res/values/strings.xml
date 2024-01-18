@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhysicsWallah Demo</string>
+    <string name="my_space">My Space</string>
+    <string name="today_i_will_study_maths">Today I will Study Maths</string>
+    <string name="m">M</string>
+    <string name="dot">.</string>
+    <string name="don_t_limit_your_challenges_nchallenge_your_limits">Don\'t limit your challenges. \nChallenge Your LIMITS</string>
+    <string name="enter">Enter</string>
+</resources>
